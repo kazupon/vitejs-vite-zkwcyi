@@ -1,0 +1,21 @@
+{
+  "name": "vite-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@intlify/unplugin-vue-i18n": "^0.6.1",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "vue": "^2.7.10",
+    "vue-i18n": "^8.27.2",
+    "vue-i18n-bridge": "9.2.2"
+  }
+}
